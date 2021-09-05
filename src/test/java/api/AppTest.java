@@ -1,4 +1,4 @@
-package com.gSTAX.Cucumber;
+package api;
 
 import static org.junit.Assert.assertTrue;
 
